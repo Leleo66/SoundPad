@@ -1,2 +1,7 @@
 # SoundPad
-SoundPad desenvolvido durante o curso de JavaScript web 
+
+> Status do projeto: Concluido.
+
+Um simples Sound Pad desenvolvido em html, css e javascript.
+
+:)
